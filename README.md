@@ -94,10 +94,11 @@ Genera un README para src/lib con propósito, ejemplo de uso y limitaciones (Mar
 
 ---
 
-## 📦 Qué debes entregar
+## 📦 ¿Qué debes preparar al finalizar?
+No es necesario entregar esta homework, pero te invitamos a preparar los siguientes elementos para cerrar el ejercicio con una buena práctica profesional:
 
-* Enlace a tu repo o un `.zip` con el proyecto.
-* Captura de cobertura (después de tus cambios).
-* README del módulo `lib`.
-* 1–2 commits con mensajes claros (si usas *Conventional Commits*, mejor).
+* Proyecto actualizado (en GitHub o en .zip)
+* Captura de pantalla del reporte de cobertura después de tus cambios.
+* Archivo README en src/lib/ con la documentación del módulo.
+* 1–2 commits con mensajes claros (idealmente usando *Conventional Commits*).
 
